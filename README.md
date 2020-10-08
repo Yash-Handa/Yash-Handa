@@ -48,6 +48,8 @@ Hi, I'm [Yash Handa](https://github.com/Yash-Handa), a Full Stack Developer 🚀
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" />
 </span>
 
+  <img align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yash-Handa&show_icons=true&theme=nightowl" />
+
 **Web Front End:**
 <span>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />
@@ -68,13 +70,13 @@ Hi, I'm [Yash Handa](https://github.com/Yash-Handa), a Full Stack Developer 🚀
 
 **Back End:**
 <span>
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" height="25" />
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" height="25" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="25" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="25" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="25" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/haskell.png" alt="Haskell" height="25" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="25" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="Go-Gin" height="25" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/apollographql/apollo-client/master/docs/source/logo/favicon.png" alt="Apollo" height="25" />
 </span>
 
 **Databases:**
@@ -87,8 +89,8 @@ Hi, I'm [Yash Handa](https://github.com/Yash-Handa), a Full Stack Developer 🚀
 **APIs:**
 <span>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="25" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="25" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/cncf/artwork/master/projects/grpc/pancake/color/grpc-pancake-color.svg" alt="gRPC" height="25" />
+<img style="margin: 10px" src="https://miro.medium.com/max/599/1*uHzooF1EtgcKn9_XiSST4w.png" alt="Rest" height="25" />
 </span>
 
 **Dev-Ops (in progress):**
@@ -102,9 +104,7 @@ Hi, I'm [Yash Handa](https://github.com/Yash-Handa), a Full Stack Developer 🚀
 </span>
 <br />
 
-
 📊 **This Week I Spent My Time On:**
 
 Wakatime stuff
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Yash-Handa&show_icons=true&theme=nightowl" alt="Yash-Handa" />
+ 
