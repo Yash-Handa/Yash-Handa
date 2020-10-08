@@ -1,25 +1,28 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Yash's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><code><img src="https://img.icons8.com/color/48/000000/walter-white.png"/></code>
 <a href="https://twitter.com/">
-  <img align="left" alt="Yash Handa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Yash Handa | Twitter" width="22px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 </a>
 <a href="https://www.linkedin.com/in//">
-  <img align="left" alt="Yash's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/">
-  <img align="left" alt="Yash's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com//">
-  <img align="left" alt="Yash's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.reddit.com/user//">
-  <img align="left" alt="Yash's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+  <img align="left" alt="Yash's LinkdeIN" width="22px" src="https://media.giphy.com/media/CGnukhkcZjSX3XJPIv/giphy.gif" />
 </a>
 <a href="https://leetcode.com//">
-  <img align="left" alt="Yash's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+  <img align="left" alt="Yash's Leetcode" width="22px" src="https://media.giphy.com/media/UShcAHeMQvM708tGdY/giphy.gif" />
 </a> 
+<a href="https://twitter.com/">
+  <img align="left" alt="Yash Handa | Twitter" width="22px" src="https://media.giphy.com/media/N7sG50flbD9pS/giphy.gif" />
+</a>
+<a href="https://t.me/">
+  <img align="left" alt="Yash's Telegram" width="22px" src="https://media.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif" />
+</a>
+<a href="https://www.instagram.com//">
+  <img align="left" alt="Yash's Instagram" width="22px" src="https://img.icons8.com/officel/24/000000/slack.png" />
+</a>
+<a href="https://discord.gg/XTW52Kt">
+  <img align="left" alt="Yash's Discord" width="22px" src="https://img.icons8.com/color/24/000000/discord-new-logo.png" />
+</a>
+<a href="https://www.reddit.com/user//">
+  <img align="left" alt="Yash's Reddit" width="22px" src="https://media.giphy.com/media/3oEjHXb3nbhoCTX1Qc/giphy.gif" />
+</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Yash-Handa.Yash-Handa)
 
