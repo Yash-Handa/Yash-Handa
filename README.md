@@ -106,5 +106,6 @@ Dev-Ops (in progress):
 
 📊 **This Week I Spent My Time On:**
 
-Wakatime stuff
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
  
