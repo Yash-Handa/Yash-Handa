@@ -1,26 +1,23 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><code><img src="https://img.icons8.com/color/48/000000/walter-white.png"/></code>
-<a href="https://twitter.com/">
-  <img align="left" alt="Yash Handa | Twitter" width="22px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img src="https://img.icons8.com/color/48/000000/walter-white.png"/>
+<a href="https://github.com/Yash-Handa">
+  <img align="left" alt="Yash's Github" width="22px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 </a>
-<a href="https://www.linkedin.com/in//">
-  <img align="left" alt="Yash's LinkdeIN" width="22px" src="https://media.giphy.com/media/CGnukhkcZjSX3XJPIv/giphy.gif" />
+<a href="https://www.linkedin.com/in/yash-handa-bb767b130/">
+  <img align="left" alt="Yash's LinkdeIN" width="24px" src="https://media.giphy.com/media/CGnukhkcZjSX3XJPIv/giphy.gif" />
 </a>
-<a href="https://leetcode.com//">
-  <img align="left" alt="Yash's Leetcode" width="22px" src="https://media.giphy.com/media/UShcAHeMQvM708tGdY/giphy.gif" />
+<a href="mailto: yashhanda7@yahoo.com">
+  <img align="left" alt="Yash's Email" width="22px" src="https://media.giphy.com/media/UShcAHeMQvM708tGdY/giphy.gif" />
 </a> 
-<a href="https://twitter.com/">
+<a href="https://twitter.com/yashHanda98">
   <img align="left" alt="Yash Handa | Twitter" width="22px" src="https://media.giphy.com/media/N7sG50flbD9pS/giphy.gif" />
 </a>
-<a href="https://t.me/">
+<a href="https://t.me/YashHanda">
   <img align="left" alt="Yash's Telegram" width="22px" src="https://media.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif" />
-</a>
-<a href="https://www.instagram.com//">
-  <img align="left" alt="Yash's Instagram" width="22px" src="https://img.icons8.com/officel/24/000000/slack.png" />
 </a>
 <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Yash's Discord" width="22px" src="https://img.icons8.com/color/24/000000/discord-new-logo.png" />
 </a>
-<a href="https://www.reddit.com/user//">
+<a href="https://www.reddit.com/u/Yash_Handa/">
   <img align="left" alt="Yash's Reddit" width="22px" src="https://media.giphy.com/media/3oEjHXb3nbhoCTX1Qc/giphy.gif" />
 </a>
 
