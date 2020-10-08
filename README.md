@@ -22,17 +22,20 @@
 
 <br />
 
-Hi, I'm [Yash Handa](), a Full Stack Developer 🚀 from India, currently, I'm a Project Collaborator 🙍🏽‍♂️ [@CreativeCommons](https://opensource.creativecommons.org/community/community-team/members/), Mentor 👨🏽‍💼[@BITSoC](https://github.com/BITSoC) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy traveling and reading.
+Hi, I'm [Yash Handa](https://github.com/Yash-Handa), a Full Stack Developer 🚀 from India, currently, I'm a Golang Developer 🙍🏽‍♂️ [@wednesday-solutions](https://github.com/wednesday-solutions), Core collaborator 👨🏽‍💼[@Node.js](https://github.com/nodejs), One of the maintainer of DOM [@WHATWG](https://github.com/whatwg), and a memeber of [@GDG Cloud New Delhi](https://github.com/gdgcloudnd). Beside's programming, I enjoy traveling and reading.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning GraphQL and C++; 
+- 🌱 I’m currently practicing Golang and Micro Services; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@Yash-Handa]();
-- 📝[Resume]()
+- 📫 How to reach me: [@yashHanda98](https://twitter.com/yashHanda98);
+- 📝[Resume](https://github.com/Yash-Handa)
+- :goal_net: Shot term Goals:
+  - Make a screen sharing app :movie_camera: using Golang and GRPC (by mid november)
+  - Active contributor to GRPC-go and maybe even a maintainer (by xmas, a santas present :santa:)
 
 **Languages and Tools:**  
 
