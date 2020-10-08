@@ -103,9 +103,3 @@ Dev-Ops (in progress):
 <img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="25" />
 </span>
 <br />
-
-📊 **This Week I Spent My Time On:**
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
- 
