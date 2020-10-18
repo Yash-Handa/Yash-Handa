@@ -22,7 +22,7 @@
 
 <br />
 
-Hi, I'm [Yash Handa](https://github.com/Yash-Handa), a Full Stack Developer 🚀 from India, currently, I'm a Golang Developer 🙍🏽‍♂️ [@wednesday-solutions](https://github.com/wednesday-solutions), Core collaborator 👨🏽‍💼[@Node.js](https://github.com/nodejs), One of the maintainer of DOM [@WHATWG](https://github.com/whatwg), and a memeber of [@GDG Cloud New Delhi](https://github.com/gdgcloudnd). Beside's programming, I enjoy traveling and reading.
+Hi, I'm [Yash Handa](https://github.com/Yash-Handa), a Full Stack Developer 🚀 from India, currently, I'm a Golang Developer 🙍🏽‍♂️ [@wednesday-solutions](https://github.com/wednesday-solutions), Core collaborator 👨🏽‍💼[@Node.js](https://github.com/nodejs), One of the maintainer of DOM [@WHATWG](https://github.com/whatwg), and a member of [@GDG Cloud New Delhi](https://github.com/gdgcloudnd). Beside's programming, I enjoy traveling and reading.
 
   <img align="right" alt="GIF" src="/code.gif?raw=true" width="500" height="320" />
   
