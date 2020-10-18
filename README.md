@@ -22,7 +22,7 @@
 
 <br />
 
-Hi, I'm [Yash Handa](https://github.com/Yash-Handa), a Full Stack Developer 🚀 from India, currently, I'm a Golang Developer 🙍🏽‍♂️ [@wednesday-solutions](https://github.com/wednesday-solutions), Core collaborator 👨🏽‍💼[@Node.js](https://github.com/nodejs), One of the maintainer of DOM [@WHATWG](https://github.com/whatwg), and a memeber of [@GDG Cloud New Delhi](https://github.com/gdgcloudnd). Beside's programming, I enjoy traveling and reading.
+Hi, I'm [Yash Handa](https://github.com/Yash-Handa), a Full Stack Developer 🚀 from India, currently, I'm a Golang Developer 🙍🏽‍♂️ [@wednesday-solutions](https://github.com/wednesday-solutions), Core collaborator 👨🏽‍💼[@Node.js](https://github.com/nodejs), One of the maintainer of DOM [@WHATWG](https://github.com/whatwg), and a member of [@GDG Cloud New Delhi](https://github.com/gdgcloudnd). Beside's programming, I enjoy traveling and reading.
 
   <img align="right" alt="GIF" src="/code.gif?raw=true" width="500" height="320" />
   
@@ -33,7 +33,7 @@ Hi, I'm [Yash Handa](https://github.com/Yash-Handa), a Full Stack Developer 🚀
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@yashHanda98](https://twitter.com/yashHanda98);
 - 📝[Resume](https://github.com/Yash-Handa)
-- :goal_net: Shot term Goals:
+- :goal_net: Short term Goals:
   - Make a screen sharing app :movie_camera: using Golang and GRPC (by mid november)
   - Active contributor to GRPC-go and maybe even a maintainer (by xmas, a santas present :santa:)
 
