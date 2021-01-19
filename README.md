@@ -41,11 +41,11 @@ Hi, I'm [Yash Handa](https://github.com/Yash-Handa), a Full Stack Developer 🚀
 
 Languages:
 <span>
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="25" />
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" />
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" />
+<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="25px" />
+<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25px" />
+<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25px" />
+<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25px" />
+<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25px" />
 </span>
 
   <img align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Yash-Handa&show_icons=true&theme=nightowl" />
