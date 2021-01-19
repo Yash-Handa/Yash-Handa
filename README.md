@@ -52,54 +52,54 @@ Languages:
 
 Web Front End:
 <span>
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="AngularJS" height="25" />
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="25" />
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/gatsby.png" alt="Gatsby" height="25" />
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="25" />
+<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="AngularJS" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/gatsby.png" alt="Gatsby" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="25px" width="25px"></img>
 </span>
 
 Web Design (Occasionally):
 <span>
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="25" />
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" />
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" />
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="25" />
+<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="25px" width="25px"></img>
 </span>
 
 Back End:
 <span>
-<img style="margin: 0 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" height="25" />
-<img style="margin: 0 10px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" height="25" />
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="25" />
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="25" />
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="25" />
-<img style="margin: 0 10px" src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="Go-Gin" height="25" />
-<img style="margin: 0 10px" src="https://raw.githubusercontent.com/apollographql/apollo-client/master/docs/source/logo/favicon.png" alt="Apollo" height="25" />
+<img style="margin: 0 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="Go-Gin" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="https://raw.githubusercontent.com/apollographql/apollo-client/master/docs/source/logo/favicon.png" alt="Apollo" height="25px" width="25px"></img>
 </span>
 
 Databases:
 <span>
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" />
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" />
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" />
+<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25px" width="25px"></img>
 </span>
 
 APIs:
 <span>
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="25" />
-<img style="margin: 0 10px" src="https://raw.githubusercontent.com/cncf/artwork/master/projects/grpc/pancake/color/grpc-pancake-color.svg" alt="gRPC" height="25" />
-<img style="margin: 0 10px" src="https://miro.medium.com/max/599/1*uHzooF1EtgcKn9_XiSST4w.png" alt="Rest" height="25" />
+<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="https://raw.githubusercontent.com/cncf/artwork/master/projects/grpc/pancake/color/grpc-pancake-color.svg" alt="gRPC" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="https://miro.medium.com/max/599/1*uHzooF1EtgcKn9_XiSST4w.png" alt="Rest" height="25px" width="25px"></img>
 </span>
 
 Dev-Ops (in progress):
 <span>
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" />
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="25" />
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" />
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" />
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="25" />
+<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25px" width="25px"></img>
+<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="25px" width="25px"></img>
 </span>
 <br />
