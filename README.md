@@ -32,7 +32,7 @@ Hi, I'm [Yash Handa](https://github.com/Yash-Handa), a Full Stack Developer 🚀
 - 🌱 I’m currently practicing Golang and Micro Services; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@yashHanda98](https://twitter.com/yashHanda98);
-- 📝[Resume](https://github.com/Yash-Handa)
+- 📝[Resume](https://drive.google.com/file/d/1FfEO_JZAQdj9q2LJT1wQSYxo0ofNl-3X/view)
 - :goal_net: Short term Goals:
   - Make a screen sharing app :movie_camera: using Golang and GRPC (by mid november)
   - Active contributor to GRPC-go and maybe even a maintainer (by xmas, a santas present :santa:)
