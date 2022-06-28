@@ -1,21 +1,21 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"/><img src="https://img.icons8.com/color/48/000000/walter-white.png" width="50px" height="50px"/>
 <a href="https://github.com/Yash-Handa" target="_blank">
-  <img align="left" alt="Yash's Github" width="24px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+  <img align="left" alt="Yash's Github" width="24px" height="24px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 </a>
 <a href="https://www.linkedin.com/in/yash-handa-bb767b130/" target="_blank">
-  <img align="left" alt="Yash's LinkdeIN" width="24px" src="https://img.icons8.com/color/48/000000/linkedin-2.png" />
+  <img align="left" alt="Yash's LinkdeIN" width="24px" height="24px" src="https://img.icons8.com/color/48/000000/linkedin-2.png" />
 </a>
 <a href="mailto: yashhanda7@yahoo.com" target="_blank">
-  <img align="left" alt="Yash's Email" width="24px" src="https://media.giphy.com/media/UShcAHeMQvM708tGdY/giphy.gif" />
+  <img align="left" alt="Yash's Email" width="24px" height="20px" src="https://media.giphy.com/media/UShcAHeMQvM708tGdY/giphy.gif" />
 </a> 
 <a href="https://twitter.com/yashHanda98" target="_blank">
-  <img align="left" alt="Yash Handa | Twitter" width="22px" src="https://media.giphy.com/media/N7sG50flbD9pS/giphy.gif" />
+  <img align="left" alt="Yash Handa | Twitter" width="22px" height="22px" src="https://media.giphy.com/media/N7sG50flbD9pS/giphy.gif" />
 </a>
 <a href="https://t.me/YashHanda" target="_blank">
-  <img align="left" alt="Yash's Telegram" width="22px" src="https://media.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif" />
+  <img align="left" alt="Yash's Telegram" width="22px" height="22px" src="https://media.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif" />
 </a>
 <a href="https://www.reddit.com/u/Yash_Handa/" target="_blank">
-  <img align="left" alt="Yash's Reddit" width="22px" src="https://media.giphy.com/media/3oEjHXb3nbhoCTX1Qc/giphy.gif" />
+  <img align="left" alt="Yash's Reddit" width="22px" height="22px" src="https://media.giphy.com/media/3oEjHXb3nbhoCTX1Qc/giphy.gif" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Yash-Handa.Yash-Handa)
