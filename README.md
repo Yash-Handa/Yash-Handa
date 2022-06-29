@@ -3,7 +3,7 @@
   <img align="left" alt="Yash's Github" width="24px" height="24px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 </a>
 <a href="https://www.linkedin.com/in/yash-handa-bb767b130/" target="_blank">
-  <img align="left" alt="Yash's LinkdeIN" width="24px" height="24px" src="https://img.icons8.com/color/48/000000/linkedin-2.png" />
+  <img align="left" alt="Yash's LinkdeIN" width="24px" height="24px" src="/linkedin.gif?raw=true" />
 </a>
 <a href="mailto: yashhanda7@yahoo.com" target="_blank">
   <img align="left" alt="Yash's Email" width="24px" height="20px" src="https://media.giphy.com/media/UShcAHeMQvM708tGdY/giphy.gif" />
