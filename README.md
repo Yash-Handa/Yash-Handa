@@ -20,7 +20,7 @@
 
 <br />
 
-Hi, I'm [Yash Handa](https://github.com/Yash-Handa), a Full Stack Developer 🚀 from India, currently, I'm a Golang Developer 🙍🏽‍♂️ [@wednesday-solutions](https://github.com/wednesday-solutions), Core collaborator 👨🏽‍💼[@Node.js](https://github.com/nodejs), One of the maintainer of DOM [@WHATWG](https://github.com/whatwg), and a member of [@GDG Cloud New Delhi](https://github.com/gdgcloudnd). Beside's programming, I enjoy traveling and reading.
+Hi, I'm [Yash Handa](https://yashhanda.netlify.app), a Full Stack Developer 🚀 from India, currently, I'm looking for **NEW OPPORTUNITIES** and have previously worked as a Golang Developer 🙍🏽‍♂️ [@wednesday-solutions](https://github.com/wednesday-solutions), Core collaborator 👨🏽‍💼[@Node.js](https://github.com/nodejs), One of the maintainer of DOM [@WHATWG](https://github.com/whatwg), and a member of [@GDG Cloud New Delhi](https://github.com/gdgcloudnd). Beside's programming, I enjoy traveling and reading.
 
   <img align="right" alt="GIF" src="/code.gif?raw=true" width="500" height="320" />
   
@@ -30,10 +30,9 @@ Hi, I'm [Yash Handa](https://github.com/Yash-Handa), a Full Stack Developer 🚀
 - 🌱 I’m currently practicing Golang and Micro Services; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@yashHanda98](https://twitter.com/yashHanda98);
-- 📝[Resume](https://drive.google.com/file/d/1FfEO_JZAQdj9q2LJT1wQSYxo0ofNl-3X/view)
-- :goal_net: Short term Goals:
-  - Make a screen sharing app :movie_camera: using Golang and GRPC (by mid november)
-  - Active contributor to GRPC-go and maybe even a maintainer (by xmas, a santas present :santa:)
+- 📝[Resume](https://drive.google.com/file/d/1-7rpEGuITj2qRmfXbZ8LJa3hoPmgVL7m/view)
+
+<br>
 
 **Languages and Tools:**  
 
@@ -41,8 +40,6 @@ Languages:
 <span>
 <img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="25px" width="25px"></img>
 <img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25px" width="25px"></img>
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25px" width="25px"></img>
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25px" width="25px"></img>
 <img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25px" width="25px"></img>
 </span>
 
@@ -51,25 +48,14 @@ Languages:
 Web Front End:
 <span>
 <img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25px" width="25px"></img>
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="AngularJS" height="25px" width="25px"></img>
 <img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25px" width="25px"></img>
 <img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="25px" width="25px"></img>
 <img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/gatsby.png" alt="Gatsby" height="25px" width="25px"></img>
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="25px" width="25px"></img>
-</span>
-
-Web Design (Occasionally):
-<span>
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="25px" width="25px"></img>
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25px" width="25px"></img>
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25px" width="25px"></img>
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="25px" width="25px"></img>
 </span>
 
 Back End:
 <span>
 <img style="margin: 0 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" height="25px" width="25px"></img>
-<img style="margin: 0 10px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" height="25px" width="25px"></img>
 <img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="25px" width="25px"></img>
 <img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="25px" width="25px"></img>
 <img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="25px" width="25px"></img>
@@ -98,6 +84,5 @@ Dev-Ops (in progress):
 <img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25px" width="25px"></img>
 <img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25px" width="25px"></img>
 <img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25px" width="25px"></img>
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="25px" width="25px"></img>
 </span>
 <br />
