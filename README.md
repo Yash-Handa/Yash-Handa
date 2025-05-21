@@ -30,7 +30,7 @@ Hi, I'm [Yash Handa](https://yashhanda.netlify.app), a Full Stack Developer 🚀
 - 🌱 I’m currently practicing Golang and Micro Services; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@yashHanda98](https://twitter.com/yashHanda98);
-- 📝[Resume](https://drive.google.com/file/d/1-7rpEGuITj2qRmfXbZ8LJa3hoPmgVL7m/view)
+- 📝[Resume](https://drive.google.com/file/d/1DIvpkn7rvdDHuz7HuQ3deQL4eJh5U8Wl/view?usp=drive_link&usp=embed_facebook)
 
 <br>
 
